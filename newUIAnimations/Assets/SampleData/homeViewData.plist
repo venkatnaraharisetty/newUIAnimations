@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category1.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Exploration</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category2.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Space</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category3.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Summer</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category4.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Mountains</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category5.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Fun</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category6.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Cool</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category7.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Technology</string>
+	</dict>
+	<dict>
+		<key>homeCellImageName</key>
+		<string>category8.jpg</string>
+		<key>homeCellLabel</key>
+		<string>Sunny</string>
+	</dict>
+</array>
+</plist>
